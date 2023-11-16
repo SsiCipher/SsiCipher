@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @SsiCipher
-- 👀 I’m interested in Computer Science & IT
-- 🌱 I’m currently learning C language
-- 🎓 I’m a student @ 1337 School
-<!-- - 📫 How to reach me  -->
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643515296/13163/star_wave.gif?1643515296" width="30" /> Hi, I’m @SsiCipher</h1>
 
-<!---
-SsiCipher/SsiCipher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<ul>
+  <li>💻 I'm a Full-stack developer</li>
+  <li>👀 I’m interested in Computer Science & IT</li>
+  <li>📚 I’m a student @ 1337 School</li>
+  <li>📫 You can connect with me on <a href="https://www.linkedin.com/in/youssef-anab/">linkedin</a> 👍</li>
+</ul>
